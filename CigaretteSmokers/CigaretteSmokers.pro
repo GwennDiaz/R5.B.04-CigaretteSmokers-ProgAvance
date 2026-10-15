@@ -6,3 +6,5 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp
+
+HEADERS +=
